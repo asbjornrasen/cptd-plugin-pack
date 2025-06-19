@@ -1,0 +1,11 @@
+name: pack
+description: Export or import CPTD commands as ZIP archives
+version: 1.0.0
+target: all
+entrypoint: pack.py
+dependencies: []
+author: Asbjorn Rasen
+email: asbjornasbjornrasen@gmail.com
+github: https://github.com/asbjornrasen
+website: https://cptdcli.com
+license: https://cptdcli.com/license.md
